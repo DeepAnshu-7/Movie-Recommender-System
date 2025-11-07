@@ -17,4 +17,5 @@ It recommends movies similar to the one selected by the user and displays their 
 - Python  
 - Streamlit  
 - TMDB API  
-- Pandas, scikit-learn, pickle  
+- Pandas, scikit-learn, pickle
+- dataset link = https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
