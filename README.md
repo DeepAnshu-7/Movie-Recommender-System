@@ -6,14 +6,14 @@ It recommends movies similar to the one selected by the user and displays their 
 
 ---
 
-## ⚙️ Features
+## Features
 - Suggests top 5 movies similar to the selected movie  
 - Displays posters fetched from TMDB API  
 - Built with Streamlit for a clean and interactive interface  
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 - Python  
 - Streamlit  
 - TMDB API  
