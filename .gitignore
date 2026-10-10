@@ -1,0 +1,6 @@
+.streamlit/secrets.toml
+tmdb_5000_movies.csv
+tmdb_5000_credits.csv
+.ipynb_checkpoints/
+__pycache__/
+venv/
